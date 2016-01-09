@@ -1,0 +1,12 @@
+.content {
+    margin: 15px auto;
+    width: 1080px;
+}
+
+canvas {
+    border-style: solid;
+    border-color: #ddd;
+    border-width: 1px;
+    border-radius: 20px 20px 20px 20px;
+}
+

@@ -1,3 +1,3 @@
-# Labs for Computing Geometry course writen on JavaScript(ES5)
+# Labs for Computing Geometry course written on JavaScript (ES5)
 
-### I dont know JS then. So don't blame on me :)
+### I didn‘t know JS then, don't blame me :)
